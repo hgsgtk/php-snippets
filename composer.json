@@ -1,5 +1,6 @@
 {
-    "name": "kazukihigashiguchi/php-snippets",
+    "name": "hgsgtk/php-snippets",
+    "license": "MIT",
     "description": "php snippets code",
     "require-dev": {
         "phpunit/phpunit": "^8.0"

@@ -1,0 +1,13 @@
+{
+    "name": "kazukihigashiguchi/php-snippets",
+    "description": "php snippets code",
+    "require-dev": {
+        "phpunit/phpunit": "^8.0"
+    },
+    "authors": [
+        {
+            "name": "Kazuki Higashiguchi",
+            "email": "hgsgtk@gmail.com"
+        }
+    ]
+}

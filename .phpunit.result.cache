@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":306:{a:2:{s:7:"defects";a:2:{s:52:"hgsgtk\xunit\tests\EagerTest::testEagerFlightMileage";i:4;s:51:"phpsnippets\tests\EagerTest::testEagerFlightMileage";i:4;}s:5:"times";a:2:{s:52:"hgsgtk\xunit\tests\EagerTest::testEagerFlightMileage";d:0.005;s:51:"phpsnippets\tests\EagerTest::testEagerFlightMileage";d:0.005;}}}

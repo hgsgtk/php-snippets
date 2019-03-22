@@ -1,6 +1,8 @@
 <?php
 declare(strict_types=1);
 
+namespace phpsnippets\src;
+
 final class TestHook
 {
     public $mode;

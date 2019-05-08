@@ -38,7 +38,12 @@ final class EagerTest extends TestCase
         $Flight->setNumber(1);
         if ($Flight->number === 1) {
             $this->assertTrue($Flight->cancel());
+        } else if ($Flight->number === 2) {
+            $this->assertTrue($Flight->cancel2());
+        }
 
+        if ($Flight->airline_code === 'special') {
+            $this->assertSame(2, $Flight->number);
         }
     }
 }

@@ -1,0 +1,24 @@
+{
+    "name": "hgsgtk/php-for-everyone",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "8"
+    },
+    "authors": [
+        {
+            "name": "hgsgtk",
+            "email": "hgsgtk@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "PhpForEveryone\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}

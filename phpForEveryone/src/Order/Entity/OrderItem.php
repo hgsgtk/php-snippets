@@ -11,7 +11,7 @@ use PhpForEveryone\Order\Value\Money;
 final class OrderItem
 {
     /** @var Money $money */
-    private Money $money;
+    private $money;
 
     /**
      * OrderItem constructor.

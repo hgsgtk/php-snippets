@@ -8,8 +8,8 @@ namespace PhpForEveryone\Order\Value;
  */
 final class Money
 {
-    /** @var $amount */
-    private int $amount;
+    /** @var int $amount */
+    private $amount;
 
     /**
      * Money constructor.

@@ -1,0 +1,26 @@
+{
+    "name": "hgsgtk/phpunit-sample",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^8.3"
+    },
+    "authors": [
+        {
+            "name": "hgsgtk",
+            "email": "hgsgtk@gmail.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.24"
+    },
+    "autoload": {
+        "psr-4": {
+            "phpunitSample\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
+}

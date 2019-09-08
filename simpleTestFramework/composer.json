@@ -1,0 +1,12 @@
+{
+    "name": "hgsgtk/simple-test-framework",
+    "authors": [
+        {
+            "name": "hgsgtk",
+            "email": "hgsgtk@gmail.com"
+        }
+    ],
+    "require": {
+        "hamcrest/hamcrest-php": "^2.0"
+    }
+}

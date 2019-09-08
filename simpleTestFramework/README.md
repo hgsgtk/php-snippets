@@ -39,5 +39,15 @@ $ cd assert
 $ ./run
 ```
 
+# hamcrest
+## 仕様
+- xxx_test.php
+- test_xxx function
+- パラメタライズテスト (PHPUnitであれば、`@dataProvider`)
+
+## refs
+- https://github.com/power-assert-js/power-assert
+- https://github.com/hamcrest/hamcrest-php
+
 ## refs
 https://github.com/hgsgtk/mpunit/issues/4

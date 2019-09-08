@@ -5,8 +5,8 @@ namespace PhpForEveryone\Order\Entity;
 use PhpForEveryone\Order\Value\OrderStatus;
 
 /**
- * Class Order
- * @package PhpForEveryone\Order\Entity
+ * Class CustomerRegister
+ * @package PhpForEveryone\CustomerRegister\Entity
  */
 final class Order
 {
@@ -22,7 +22,7 @@ final class Order
     private $status;
 
     /**
-     * Order constructor.
+     * CustomerRegister constructor.
      * @param OrderItem[]
      * @param OrderStatus $status
      */

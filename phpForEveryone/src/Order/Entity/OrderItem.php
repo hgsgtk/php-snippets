@@ -6,7 +6,7 @@ use PhpForEveryone\Order\Value\Money;
 
 /**
  * Class OrderItem
- * @package PhpForEveryone\Order\Entity
+ * @package PhpForEveryone\CustomerRegister\Entity
  */
 final class OrderItem
 {

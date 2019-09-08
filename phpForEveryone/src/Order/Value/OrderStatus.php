@@ -5,7 +5,7 @@ namespace PhpForEveryone\Order\Value;
 
 /**
  * Class OrderStatus
- * @package PhpForEveryone\Order\Value
+ * @package PhpForEveryone\CustomerRegister\Value
  */
 final class OrderStatus extends Enum
 {

@@ -10,7 +10,7 @@ use PhpForEveryone\Order\Value\Money;
 
 /**
  * Class OrderTest
- * @package Tests\Order\Entity
+ * @package Tests\CustomerRegister\Entity
  */
 final class OrderTest extends TestCase
 {

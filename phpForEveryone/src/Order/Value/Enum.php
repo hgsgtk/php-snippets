@@ -5,7 +5,7 @@ namespace PhpForEveryone\Order\Value;
 
 /**
  * Class Enum
- * @package PhpForEveryone\Order\Value
+ * @package PhpForEveryone\CustomerRegister\Value
  * @see https://qiita.com/Hiraku/items/71e385b56dcaa37629fe
  */
 abstract class Enum

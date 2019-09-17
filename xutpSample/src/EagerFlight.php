@@ -1,6 +1,6 @@
 <?php
 
-namespace phpsnippets\src;
+namespace xutpSample;
 
 class EagerFlight
 {

@@ -10,5 +10,15 @@
             "name": "Kazuki Higashiguchi",
             "email": "hgsgtk@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "xutpSample\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    }
 }

@@ -1,9 +1,9 @@
 <?php
 declare(strict_types=1);
 
-namespace phpsnippets\tests;
+namespace Tests;
 
-use phpsnippets\src\EagerFlight;
+use xutpSample\EagerFlight;
 use http\Exception\RuntimeException;
 use PHPUnit\Framework\TestCase;
 

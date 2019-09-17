@@ -54,4 +54,10 @@ final class OrderTest extends TestCase
             ],
         ];
     }
+
+    public function testCancelableキャンセル可能であること()
+    {
+        $order = new Order([new OrderItem(new Money(1000))], OrderStatus::SHIPPING());
+        $this->assertTrue($order->cancelable());
+    }
 }

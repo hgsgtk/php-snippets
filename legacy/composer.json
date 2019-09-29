@@ -1,0 +1,15 @@
+{
+    "name": "hgsgtk/legacy",
+    "authors": [
+        {
+            "name": "hgsgtk",
+            "email": "hgsgtk@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "legacy\\": "src/"
+        }
+    }
+}

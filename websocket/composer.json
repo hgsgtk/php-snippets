@@ -1,0 +1,17 @@
+{
+    "name": "hgsgtk/websocket",
+    "require": {
+        "textalk/websocket": "^1.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Hgsgtk\\Websocket\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hgsgtk",
+            "email": "kazuki@autify.com"
+        }
+    ]
+}
